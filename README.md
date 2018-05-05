@@ -1,6 +1,8 @@
 # neudron-core
 
-![Eachine H8 mini](h8mini.jpg)
+![Neudron](neudron-logo.png)
+
+<img align="left" alt="Eachine H8 Mini" width="240" height="240" src="https://raw.githubusercontent.com/milankragujevic/neudron-core/master/h8mini.jpg">
 
 Control a toy quadcopter from a smartphone or tablet over WiFi with NRF24L01+, Arduino and ESP8266.
 
