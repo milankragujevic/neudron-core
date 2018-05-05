@@ -1,6 +1,6 @@
-# neudron-core
-
 ![Neudron](neudron-logo.png)
+
+# neudron-core
 
 <img align="left" alt="Eachine H8 Mini" width="120" height="120" src="https://raw.githubusercontent.com/milankragujevic/neudron-core/master/h8mini.jpg">
 
