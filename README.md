@@ -2,13 +2,15 @@
 
 ![Neudron](neudron-logo.png)
 
-<img align="left" alt="Eachine H8 Mini" width="240" height="240" src="https://raw.githubusercontent.com/milankragujevic/neudron-core/master/h8mini.jpg">
+<img align="left" alt="Eachine H8 Mini" width="120" height="120" src="https://raw.githubusercontent.com/milankragujevic/neudron-core/master/h8mini.jpg">
 
 Control a toy quadcopter from a smartphone or tablet over WiFi with NRF24L01+, Arduino and ESP8266.
 
 Neudron ("New drone") folder contains the code for the Arduino, which will talk to the drone using NRF24L01+. 
 
 Neuwei ("New way") contains code for the ESP8266 that will be used as a web interface, websocket server and also as a serial to HTTP adapter.
+
+---
 
 This code is currently compatible with the following quadcopter model(s): 
  - Eachine H8 mini ([https://bit.ly/2FNICHA](https://bit.ly/2FNICHA))
